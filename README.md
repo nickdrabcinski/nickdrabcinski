@@ -8,7 +8,7 @@ My name is Nick and I'm a Data Scientist living in Chișinău.
 ## Skills
 - 👨‍💻 Python, C++
 - ⚙️ PyTorch, NLP, Deep Learning
-- 👁️ pandas, numpy, sklearn, matplotlib, seaborn, xgboost/catboost, dash, plotly
+- 👁️ pandas, numpy, sklearn, matplotlib, seaborn,  plotly
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nickdrabcinski&show_icons=true&hide_border=true&theme=gotham" alt="abhisheknaiidu" />
 
