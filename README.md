@@ -17,7 +17,6 @@ My name is Nick and I'm a Data Scientist living in Chișinău.
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=nickdrabcinski&show_icons=true&hide_border=true&theme=gotham" alt="abhisheknaiidu" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickdrabcinski&layout=compact&theme=cobalt&hide=Jupyter%20Notebook"/>
  </p>
 
 
