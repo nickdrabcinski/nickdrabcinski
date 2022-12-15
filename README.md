@@ -6,9 +6,9 @@ My name is Nick and I'm a Data Analyst living in Chișinău.
 - 💬 How to reach me: [Telegram](https://t.me/ndrabcinski), [LinkedIn](https://www.linkedin.com/in/nickdrabcinski/)
 
 ## Skills
-- 👨‍💻 Python, C++
-- ⚙️ PyTorch, NLP, Deep Learning
-- 👁️ pandas, numpy, sklearn, matplotlib, seaborn,  plotly
+- 👨‍💻 Python, R, SQL
+- ⚙️ PyTorch, TensorFlow, ScikitLearn, NLTK, XGBoost, LightGBM, Statsmodels, CausalImpact
+- 👁️ Git, DVC, Spark, Tableau, Airflow, Docker
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=nickdrabcinski&show_icons=true&hide_border=true&theme=gotham" alt="abhisheknaiidu" />
