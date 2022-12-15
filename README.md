@@ -1,5 +1,5 @@
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Logo" width="25" height="25">
-My name is Nick and I'm a Data Scientist living in Chișinău.
+My name is Nick and I'm a Data Analyst living in Chișinău.
 
 
 - 🤔 I am interested in Statistical Analysis and NLP
