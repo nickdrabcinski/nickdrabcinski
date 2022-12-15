@@ -2,7 +2,7 @@
 My name is Nick and I'm a Data Analyst living in Chișinău.
 
 
-- 🤔 I am interested in Statistical Analysis and NLP
+- 🤔 I am interested in Bioinformatics and Statistical Analysis
 - 💬 How to reach me: [Telegram](https://t.me/ndrabcinski), [LinkedIn](https://www.linkedin.com/in/nickdrabcinski/)
 
 ## Skills
